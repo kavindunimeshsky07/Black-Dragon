@@ -28,8 +28,8 @@ global.linkz = "https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN" //your theme u
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/dinuwah/Black-Dragon' //script link
 global.themeemoji = "🚭" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
+global.packname = "Sticker By Black 𝔻𝕀ℕ𝕌𝕎𝔸" //ur sticker watermark packname
+global.author = "𝔻𝕀ℕ𝕌𝕎𝔸 Official" //ur sticker watermark author
 global.wm = "𝗕𝗟𝗔𝗖𝗞 𝔻𝕀ℕ𝕌𝕎𝔸 𝗜𝗡𝗖" //ur watermark
 
 // Other
