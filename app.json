@@ -1,8 +1,8 @@
 {
-  "name": "Black-Dragon",
+  "name": "Black-𝔻𝕀ℕ𝕌𝕎𝔸",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nimaofficial/Black-Dragon",
-  "logo": "https://telegra.ph/file/3dbcac0900db4dc92fcc4.jpg",
+  "repository": "https://github.com/dinuwah/Black-Dragon",
+  "logo": "https://i.ibb.co/dMWvjWY/Picsart-22-12-14-08-57-00-919.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
